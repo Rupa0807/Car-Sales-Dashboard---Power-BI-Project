@@ -35,7 +35,7 @@ The goal of this project is to design and develop a dynamic dashboard that visua
   
 ## Screenshots
 
-![Dashboard Screenshot](<img width="1330" height="754" alt="image" src="https://github.com/user-attachments/assets/cb74da55-0b31-4fdc-8288-eb80bd155c93" />
+![Dashboard Screenshot](<img width="1330" height="754" alt="image" src="https://github.com/Rupa0807/Car-Sales-Dashboard---Power-BI-Project/blob/main/images/dashboard-1.png" />
 )
 
  
