@@ -34,9 +34,7 @@ The goal of this project is to design and develop a dynamic dashboard that visua
   <li> Power Query for data cleaning & transformation</li>
   
 ## Screenshots
-
-![Dashboard Screenshot](<img width="1330" height="754" alt="image" src="https://github.com/Rupa0807/Car-Sales-Dashboard---Power-BI-Project/blob/main/images/dashboard-1.png" />
-)
+![Dashboard Screenshot](https://raw.githubusercontent.com/Rupa0807/Car-Sales-Dashboard---Power-BI-Project/main/images/dashboard-1.png)
 
  
 ## Notes
